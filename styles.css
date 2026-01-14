@@ -26,7 +26,7 @@ h2, h3 {
 }
 .top-nav {
 	padding-left: 40px;
-	background-color: darkturquoise ;
+	background-color: sandybrown;
 	text-align: center;
 	color: white;
 	font-size: 21px
@@ -65,9 +65,8 @@ h2, h3 {
 .section > div {
 	width: 20%;
 	height: 150px;
-	background-color: darkgoldenrod;
+	background-color: sandybrown;
 	text-align: center;
-	color: white;
 	font-size: 14px;
 }
 .quote {
