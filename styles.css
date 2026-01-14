@@ -14,7 +14,7 @@ li {
 a:link, a:visited {
 	text-decoration-line: none;
 	margin-right: 40px;
-	color: white;
+	color: black;
 }
 h2, h3 {
 	text-align: center;
@@ -40,9 +40,8 @@ h2, h3 {
 	margin: auto;
 }
 .aside {
-	background-color: cadetblue;
+	background-color: wheat;
 	width: 20%;
-	color: white;
 	text-align: center;
 }
 .main {
@@ -51,8 +50,7 @@ h2, h3 {
 }
 .article {
 	width: 80%;
-	background-color: cadetblue;
-	color: white;
+	background-color: wheat;
 	padding: 20px;
 	margin: auto;
 	margin-top: 20px;
